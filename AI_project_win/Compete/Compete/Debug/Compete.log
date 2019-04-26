@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/4/11 16:30:45。
+项目“\\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Compete\Compete.vcxproj”在节点 2 上(Rebuild 个目标)。
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Compete.cpp Judge.cpp main.cpp
+  main.cpp
+  Judge.cpp
+  Compete.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  正在生成代码...
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Debug\Compete.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Debug\Compete.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Debug\Compete.lib" /MACHINE:X86 /SAFESEH Debug\Compete.obj
+  Debug\Judge.obj
+  Debug\main.obj
+Compete.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Compete.vcxproj -> \\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Debug\Compete.exe
+已完成生成项目“\\VBOXSVR\courses\已修\人智\AI_Project\AI_project_win\Compete\Compete\Compete.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.49
